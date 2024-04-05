@@ -7,7 +7,7 @@ public class BankMain {
         //	Rbi r1 = new Rbi();
 		//r.setIntrest(9.8f);
 	    System.out.println(r.getIntrest());
-	    r.sayHello();// first child class- sayHello will be executed and parent class sayHello() is overrided
+	    r.sayHello();// first child class sayHello will be executed and parent class sayHello() is overrided
         
 	    //Compile time polymorphism
 	    Sbi s = new Sbi();

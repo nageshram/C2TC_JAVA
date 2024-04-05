@@ -1,6 +1,6 @@
  package nagesh_corejava.ClassAndObject;
  
- /**Package declaration is first thing in java later followed by import statement
+ /**,Package declaration is first thing in java later followed by import statement
   * Package syntax : package tnsif.org.java.submodule; -- 
   * package org_name.domain_name.client_name.project_name.module_name;
   * example : package infosys.com.sbi.loan.carloan;.

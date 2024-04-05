@@ -2,7 +2,7 @@ package nagesh_corejava.ClassAndObject;
 
 import nagesh_corejava.inheritance.JavacoreInheritance;// to check protected variable is accessed or not
 
-/**Access Specifiers in Java.
+/**Access Specifiers in Java
  * 
  * | A.S\Access  | inside_class  |  outside_class | within_package | outside_package 
  * | private     |    yes        |    no          |  no            |   no
