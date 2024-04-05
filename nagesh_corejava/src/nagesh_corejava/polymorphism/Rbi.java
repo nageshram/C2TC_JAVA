@@ -5,7 +5,7 @@ package nagesh_corejava.polymorphism;
  * 
  * Two types of Polymorphism : Runtime and compile time polymorphism
  * Runtime Ploymorphism : through inheritance
- * compile time : through method overloading
+ * compile time : through method overloading.
  */ 
 
 public class Rbi {  

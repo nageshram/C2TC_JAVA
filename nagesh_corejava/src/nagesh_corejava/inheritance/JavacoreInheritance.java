@@ -1,7 +1,7 @@
 package nagesh_corejava.inheritance;
 
 public class JavacoreInheritance {
-      protected String name="me";
+      protected String name="me.";
 
 	public String getName() {
 		return name;
