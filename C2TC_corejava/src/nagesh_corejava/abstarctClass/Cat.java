@@ -10,4 +10,5 @@ public class Cat extends Animal {
 	{
 		System.out.println("Meow Meow..\n");
 	}
+	//This concept bound to loose coupling because the cat class depends on Animal class, there is a dependency on one over other
 }
